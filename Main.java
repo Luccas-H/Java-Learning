@@ -15,6 +15,6 @@ public class Main {
                }
             }
         }
-        System.out.println(majorAge);
+        System.out.println("The biggest age is "+ majorAge);
     }
 }
